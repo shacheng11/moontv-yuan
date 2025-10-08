@@ -136,7 +136,7 @@
             "name": "金鹰点播",
             "api": "https://jinyingzy.com/api.php/provide/vod",
             "detail": "https://jinyingzy.com"
-      
+        },
         "guangsuapi": {
             "api": "https://api.guangsuapi.com/api.php/provide/vod",
             "name": "光速资源",
